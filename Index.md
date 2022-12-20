@@ -2,6 +2,6 @@
 
 Here's my sample map website
 
-<iframe src="prateeksha.html" height="500" width="500"></iframe> 
+<iframe src="prateeksha (1).html" height="500" width="500"></iframe> 
 
-You can explore this map as its own page [here](prateeksha.html). Thanks!
+You can explore this map as its own page [here](prateeksha (1).html). Thanks!
